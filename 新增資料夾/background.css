@@ -1,0 +1,37 @@
+#button{
+margin-top: 10px;
+margin-left:3%;
+margin-right:5%;
+margin-bottom:auto;
+position:relative;
+font-family:comic sans ms;
+font-size:16px;
+}
+#timerdiv{
+font-family:comic sans ms;
+font-size:14px;
+}
+#editblacklist{
+border-style:solid;
+border-width:3px;medium;
+border-color:#0000FF;
+text-align:center; 
+font-family:comic sans ms;
+font-size:20px;
+font-weight:300;
+a:link{color:#0000FF;text-decoration:none;}
+a:visited {color:#FF0000; text-decoration:none;} 
+a:hover {color:#00FF00; text-decoration:underline;} 
+a:active {color:#FF0000; text-decoration:underline;} 
+}
+#B ul li{
+display:inline;
+}
+#text{
+margin-left:5%;
+margin-right:5%;
+font-family:comic sans ms;
+font-size:16px;
+}
+
+
